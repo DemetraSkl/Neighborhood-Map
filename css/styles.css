@@ -1,0 +1,85 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 2%;
+    padding-top: 1%;
+    background-color: #F4F4F4;
+}
+
+h1,
+h4 {
+    color: #373737;
+}
+
+h3 {
+    color: #DCD0C0;
+}
+
+
+.divider {
+    height: 5px;
+    background-color: #DCD0C0;
+}
+
+.msgs {
+    text-align: center;
+    color: #373737;
+    background-color: white;
+}
+
+.content {
+    height: 100%;
+}
+
+
+
+/*
+Map styling
+*/
+
+#map {
+    height: 80%;
+}
+
+.map-view {
+    height: 100%;
+}
+
+
+
+/*
+InfoWindow styling
+*/
+
+#iw-container {
+    width: 200px;
+}
+
+.gm-style-iw {
+    width: 90% !important;
+    top: 0;
+    left: 0;
+    background-color: #DCD0C0;
+    box-shadow: 0 1px 6px rgba(178, 178, 178, 0.6);
+}
+
+.summary {
+    text-align: justify;
+}
+
+
+/* 
+Locations list styling
+*/
+
+#locations-list {
+    text-align: left;
+}
+
+ul {
+    list-style: none;
+    color: #373737;
+    padding-left: 0px;
+}
