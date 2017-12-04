@@ -18,7 +18,7 @@ Click on location markers or list element to view information on the specific lo
 
 ## Author
 
-Demetra Sklaviadis
+Demetra Skl
 
 ## License
 Copyright (c) [2017] [DemetraSkl]
